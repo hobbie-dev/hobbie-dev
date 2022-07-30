@@ -1,14 +1,166 @@
-### ⭐ Perfil de hobbie!
-Seja bem-vindo ao meu perfil Github, é um prazer tê-lo aqui 👋
+<div id="top"></div>
+<div align="center" ><img width="100%" alt="Seja bem-vindo ao meu perfil" src="https://github.com/hobbie-dev/hobbie-dev/blob/main/assets/header.png"></div>
 
-<div>
-<a href="https://github.com/hobbie-dev">
-<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hobbie-dev&layout=compact&langs_count=7&theme=dracula"/>
-<img height="140em" src="https://github-readme-stats.vercel.app/api?username=hobbie-dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<div align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=hobbie;Brazilian+Game+Developer;Brazilian+Game+Developer;Power+Metal+Lover+%3C3;function+findQuestion(42)" alt="Brazilian Game Developer"></a>
 </div>
 
+<h2>:woman_technologist: About me</h2>
+<img width="70%" alt="Hello world! Pronouns: she/her; Country: Brazil; Age: 20; Spoken Languages: Portuguese, English, Spanish; New Year Goals: Sharpen my skills in Programming, learning French, get a job; My Favorites: Rock Band: Pink Floyd; Metal Band: Blind Guardian; Movies: The Matrix; Anime: Attack on Titan; Books: The Hitchhiker's Guide to the Galaxy; TV Series: Black Mirror and Sherlock." src="https://github.com/Carol42/Carol42/blob/main/assets/about-me.png">
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+<h2>:busts_in_silhouette: How to reach me</h2>
+<a href="https://github.com/Carol42">
+    <img alt="Link to my GitHub" src="https://img.shields.io/github/followers/Carol42?style=social&label=@Carol42">
+</a>
+<a href="https://codepen.io/Carol42">
+    <img alt="link to my CodePen" src="https://img.shields.io/static/v1?label&message=/Carol42&color=000000&style=flat&logo=codepen"  />
+</a>
+<a href="https://twitter.com/carol_heloo/">
+    <img alt="Link to my Twitter" src="https://img.shields.io/twitter/follow/Carol_Heloo?style=social&label=@Carol_Heloo">
+</a>
+<a href="https://linkedin.com/in/carol42">
+    <img alt="link to my LinkedIn" src="https://img.shields.io/static/v1?label&message=/in/carol42&color=0A66C2&style=flat&logo=linkedin" />
+</a>
+<a href="https://t.me/carol_helo">
+    <img alt="link to my Telegram" src="https://img.shields.io/static/v1?label&message=@carol_helo&color=26A5E4&style=flat&logo=telegram&logoColor=whitesmoke" />
+</a>
+<a href="https://www.instagram.com/carol_helloo/">
+    <img alt="link to my Instagram" src="https://img.shields.io/static/v1?label&message=@carol_helloo&color=7E3ACE&style=flat&logo=instagram&logoColor=whitesmoke" />
+</a>
+<a href="mailto:carol42.helo@gmail.com">
+    <img alt="link to send me an email" src="https://img.shields.io/static/v1?label&message=carol42.helo@gmail.com&color=whitesmoke&style=flat&logo=gmail" />
+</a>
+</br>
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+<h2>:bulb: Languages & Frameworks</h2>
+<code><img title="HTML 5" alt="html5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></code>
+<code><img title="JavaScript" alt="javascript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></code>
+<code><img title="Python" alt="python" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></code>
+<code><img title="CSS 3" alt="css 3" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></code>
+<code><img title="C" alt="C" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /></code>
+<code><img title="ReactJS" alt="react js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></code>
+<code><img title="NodeJS" alt="node js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></code>
+<code> <img title="Markdown" alt="markdown" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" /></code>
+<code> <img title="Next.js" alt="next.js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" /></code>
+</br></br>
+
+<h2>:hammer_and_wrench: Tools I use</h2>
+<code> <img title="npm" alt="npm" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" /></code>
+<code><img title="Ubuntu" alt="ubuntu" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" /></code>
+<code><img title="Git" alt="git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></code>
+<code><img title="Mozilla Firefox" alt="mozilla firefox" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" /></code>
+<code><img title="VS Code" alt="visual studio code" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></code>
+<code><img title="MS Windows" alt="microsoft windows" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" /></code>
+<code> <img title="Yarn" alt="yarn" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" /></code>
+<code> <img title="Heroku" alt="heroku" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg" /></code>
+<code><img title="GitHub" alt="github" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></code>
+<code><img title="GIMP" alt="GNU Image Manipulation Program - GIMP" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" /></code>
+<code><img title="Linux" alt="linux" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /></code>
+</br></br>
+
+<h2>:books: My personal portfolio</h2>
+<a href="https://github.com/Carol42/portfolio">
+    <img alt="link to the repository of my personal portfolio" src="https://github-readme-stats.vercel.app/api/pin/?username=Carol42&repo=portfolio&theme=midnight-purple&hide_border=true">
+</a>
+</br>
+<a href="https://portfolio-carol42.vercel.app/">
+    <img alt="link to my portfolio" src="https://img.shields.io/static/v1?label&message=open+portfolio&color=7E3ACE&style=for-the-badge" />
+</a>
+</br></br>
+
+<h2>:notes: Music <a href="https://www.last.fm/user/carol-helo"><img alt="last song I've listened to" src="https://badges.lastfm.workers.dev/last-played?user=carol-helo&color=7E3ACE&logoColor=7E3ACE&label=Last+song+I've+listened+to"></a></h2>
+
+<h3>:headphones: Albums I've listened to the most this week</h3>
+
+<!-- lastfm -->
+<p align="center"><img src="https://lastfm.freetls.fastly.net/i/u/64s/0ca1499a97a44031a4ecf9abaa68c9c9.jpg" title="Blind Guardian - A Twist in the Myth"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/0898c36cc3a948f7c89bacda32ce76eb.png" title="Blind Guardian - Beyond the Red Mirror"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/27e97ce8fbea49158017c08d3d68d5bf.png" title="Helloween - Keeper of the Seven Keys, Pt. 1"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/115a3f98b7e1491ebcb3d79870ace3a7.jpg" title="Helloween - The Time of the Oath"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/b38a41deb6c95bfedbbcde9137ccd840.png" title="Helloween - Walls of Jericho"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/e121b2c611df7b054a7966e77be10a32.png" title="Avantasia - Angel of Babylon"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/fd6111cd242642c9a3b8e26efc3f2ac4.png" title="Avantasia - The Wicked Symphony"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/59716594cfa7b15a2a2570d7034c3e09.jpg" title="Blind Guardian - At The Edge Of Time (Exclusive Bonus Version)"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/fcab96dd98a4821ef3cf74c519672dd2.png" title="Helloween - 7 Sinners"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/48e78e4f8336ddecb7529ff63d0b6479.png" title="Helloween - Keeper of the Seven Keys, Pt. II"> </p>
+
+<p>These album covers are automatically updated from last.fm using <a href="https://github.com/marketplace/actions/lastfm-to-markdown">this GitHub Actions workflow</a> written by <a href="https://github.com/melipass">@melipass</a>.</p>
+
+<h2>:thought_balloon: Quote of the day</h2>
+<details open>
+<summary>See quote</summary>
+    <a href="https://github.com/piyushsuthar/github-readme-quotes">
+        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quotes card">
+    </a>
+</details>
+<h2>:zany_face: Joke of the day</h2>
+<details>
+<summary>See joke</summary>
+    <a href="https://github.com/ABSphreak/readme-jokes">
+        <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" />
+    </a>
+</details>
+<h2>:octocat: My GitHub Stats</h2>
+<details>
+<summary>General Stats</summary>
+<div>
+    <img alt="github repos" src="https://badges.pufler.dev/repos/Carol42?color=181717&style=for-the-badge&labelColor=7E3ACE">
+    <img alt="commits today" src="https://badges.pufler.dev/commits/daily/Carol42?color=181717&style=for-the-badge&labelColor=7E3ACE">
+    <img alt="commits this week" src="https://badges.pufler.dev/commits/weekly/Carol42?color=181717&style=for-the-badge&labelColor=7E3ACE">
+    <img alt="commits this month" src="https://badges.pufler.dev/commits/monthly/Carol42?color=181717&style=for-the-badge&labelColor=7E3ACE">
+</div>
+<div alig="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img height=180em src="https://github-readme-stats.vercel.app/api?username=Carol42&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true&hide_title=true" alt="my github stats" />
+    </a>
+</div>
+</details>
+<details>
+ <summary>Recent activity</summary>
+    
+<!--START_SECTION:activity-->
+1. 🎉 Merged PR [#21](https://github.com/Carol42/Disnil/pull/21) in [Carol42/Disnil](https://github.com/Carol42/Disnil)
+2. 🎉 Merged PR [#18](https://github.com/Carol42/Disnil/pull/18) in [Carol42/Disnil](https://github.com/Carol42/Disnil)
+3. 🎉 Merged PR [#19](https://github.com/Carol42/Disnil/pull/19) in [Carol42/Disnil](https://github.com/Carol42/Disnil)
+4. 🎉 Merged PR [#20](https://github.com/Carol42/Disnil/pull/20) in [Carol42/Disnil](https://github.com/Carol42/Disnil)
+5. 🎉 Merged PR [#9](https://github.com/Carol42/portfolio/pull/9) in [Carol42/portfolio](https://github.com/Carol42/portfolio)
+<!--END_SECTION:activity-->
+
+</details>
+<details>
+<summary>Top languages</summary>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carol42&theme=midnight-purple&hide_border=true&layout=compact&custom_title=Most+Used+Languages*&langs_count=10" alt="most used languages" />
+    </a>
+    <p><b>*Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</p>
+</details>
+<details>
+<summary>Streak stats</summary>
+    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+        <img height=180em src="https://github-readme-streak-stats.herokuapp.com/?user=Carol42&theme=midnight-purple&hide_border=true" alt="streak stats"/>
+    </a>
+</details>
+<details>
+<summary>Contribution Graph</summary>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img alt="github activity graph" src="https://activity-graph.herokuapp.com/graph?username=Carol42&area=true&hide_border=true&bg_color=000&line=7E3ACE&point=1E0E31&color=7E3aCE&area_color=7E3ACE">
+</a>
+</details>
+<details>
+<summary>Achievements</summary>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img alt="github trophies" src="https://github-profile-trophy.vercel.app/?username=Carol42&theme=darkhub&no-frame=true&column=7">
+</a>
+</details>
+<details>
+<summary>Profile visitors</summary>
+<p align="center">:round_pushpin: Profile visitors</p>
+<div align="center">
+    <img alt="visitors counter" src="https://profile-counter.glitch.me/Carol42/count.svg">
+</div>
+</details>
+
+<img alt="github contribution snake animation" src="https://github.com/Carol42/Carol42/blob/output/github-contribution-grid-snake.svg">
+
+<h2>:book: Guestbook</h2>
+<p>Leave a cool message for me or just say you passed by <a href="https://github.com/Carol42/Carol42/issues/new?template=guestbook-entry.md">here</a>!</p>
+
+<div align="center">
+    <a href="https://git.io/typing-svg">
+        <img alt="thanks for your visit" src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=24&center=true&vCenter=true&width=300&lines=Thanks+for+your+visit!" >
+    </a>
+</div>
+
+<p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=7E3ACE&style=flat&logo" alt="back to top" /></a></p>
+<div align="center" ><img alt="" width="100%" src="https://github.com/Carol42/Carol42/blob/main/assets/footer.png"></div>
