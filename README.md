@@ -2,7 +2,7 @@
 	<img src="https://komarev.com/ghpvc/?username=amankr1619&color=blueviolet&style=flat-square&label=Profile+Views" />
 </p>
 
-## &nbsp;Sobre mim:
+## 🧑 Sobre mim:
 
 <p>🎓 Desenvolvedor profissional em plataformas Java e Pawn;<br />
 🌙 Aprendiz em Lua;<br />
@@ -17,6 +17,8 @@
 ![Pawn](https://img.shields.io/badge/-Pawn-05122A?style=flat&logo=pawn)&nbsp;
 ![Lua](https://img.shields.io/badge/-Lua-05122A?style=flat&logo=lua)&nbsp;
 
+<hr />
+
 ## 📈 Estatísticas
 
 <br/>
@@ -25,25 +27,12 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=hobbie-dev&hide_border=true&theme=dark&show_icons=true" />
 </p>
 
-<p align="center">
-	<img width="60%" src="https://github-readme-stats.vercel.app/api/wakatime?username=hobbie-dev1619&theme=dark&show_icons=true" alt="amankr1619" />
-</p>
-
 <hr />
 
-## 📕 Pinned Repositories
+## 📕 Repositórios
 
 <p align="center">
-	<a href="https://github.com/amankrx/portfolio">
-		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amankrx&repo=portfolio&hide_border=true&theme=dark&show_icons=true" />
-	</a>
-	<a href="https://github.com/amankrx/amankrx">
-		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amankrx&repo=amankrx&hide_border=true&theme=dark&show_icons=true" />
-	</a>
-	<a href="https://github.com/amankrx/Healthsy">
-		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amankrx&repo=Healthsy&hide_border=true&theme=dark&show_icons=true" />
-	</a>
-	<a href="https://github.com/amankrx/Health">
-		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amankrx&repo=Health&hide_border=true&theme=dark&show_icons=true" />
+	<a href="https://github.com/hobbie-dev/hobbie-dev/">
+		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hobbie-dev&repo=hobbie-dev&hide_border=true&theme=dark&show_icons=true" />
 	</a>
 </p>
