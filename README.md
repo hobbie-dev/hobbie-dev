@@ -4,10 +4,10 @@
 
 ## &nbsp;Sobre mim:
 
-<p>🎓 Desenvolvedor profissional em plataformas Java e Pawn;
-🌙 Aprendiz em Lua;
-🧩 Possível futuro programador HTML;
-🧱 Developer Leader em Medieval RPG;
+<p>🎓 Desenvolvedor profissional em plataformas Java e Pawn;<br />
+🌙 Aprendiz em Lua;<br />
+🧩 Possível futuro programador HTML;<br />
+🧱 Developer Leader em Medieval RPG;<br />
 🧱 Retired Developer em Rolly Network, Rede Heroic, Rede Celest, Rede Haunted (+6);</p>
 <br />
 
