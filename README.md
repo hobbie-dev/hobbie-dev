@@ -1,4 +1,5 @@
 # <p align="center">Perfil de hobbie<br /><img src="https://komarev.com/ghpvc/?username=hobbie-dev1619&color=blueviolet&style=flat-square&label=Profile+Views" /></p>
+<p align="center">Programador especializado em projetar e desenvolver extensões para jogos que abrem possibilidades nas seguintes plataformas de programação: Java, Pawn e Lua. Usuário de Pawno Infernus, Sublime Text, IntelliJ e Visual Studio Code. Encomendas abertas unicamente em Pawn.
 
 ## 🧑 Sobre mim:
 <p>🎓 Desenvolvedor profissional em plataformas Java e Pawn;<br />
