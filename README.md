@@ -17,8 +17,6 @@
 ![Pawn](https://img.shields.io/badge/-Pawn-05122A?style=flat&logo=pawn)&nbsp;
 ![Lua](https://img.shields.io/badge/-Lua-05122A?style=flat&logo=lua)&nbsp;
 
-<hr />
-
 ## 📈 Estatísticas
 
 <br/>
