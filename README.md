@@ -1,4 +1,4 @@
-### ⭐ Perfil de hobbie!</br>
+### ⭐ Perfil de hobbie!
 Seja bem-vindo ao meu perfil Github, é um prazer tê-lo aqui 👋
 
 <div>
