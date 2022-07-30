@@ -1,18 +1,17 @@
 # <p align="center">Perfil de hobbie<br /><img src="https://komarev.com/ghpvc/?username=hobbie-dev1619&color=blueviolet&style=flat-square&label=Profile+Views" /></p>&nbsp;
 
-## 🧑 &nbsp;Sobre mim:
+## 🧑 Sobre mim:
 <p>🎓 Desenvolvedor profissional em plataformas Java e Pawn;<br />
 🌙 Aprendiz em Lua;<br />
 🧩 Possível futuro programador HTML;<br />
 🧱 Developer Leader em Medieval RPG;<br />
 🧱 Retired Developer em Rolly Network, Rede Heroic, Rede Celest, Rede Haunted (+6);</p>
 
-### 💻 &nbsp;Linguagens de programação:
+### 💻 Linguagens de programação:
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
 ![Pawn](https://img.shields.io/badge/-Pawn-05122A?style=flat&logo=pawn)&nbsp;
 ![Lua](https://img.shields.io/badge/-Lua-05122A?style=flat&logo=lua)&nbsp;
 
-<hr />
 ## 📈 Estatísticas
 
 <br/>
@@ -21,7 +20,6 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=hobbie-dev&hide_border=true&theme=dark&show_icons=true" />
 </p>
 
-<hr />
 ## 📕 Repositórios
 
 <p align="center">
