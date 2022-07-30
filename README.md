@@ -1,4 +1,4 @@
-Perfil de hobbie
+<p align="center"><p size=30>Perfil de hobbie</p></p>
 <p align="center">
 	<img src="https://komarev.com/ghpvc/?username=hobbie-dev1619&color=blueviolet&style=flat-square&label=Profile+Views" />
 </p>
