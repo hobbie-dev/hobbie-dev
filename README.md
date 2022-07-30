@@ -9,7 +9,6 @@
 🧩 Possível futuro programador HTML;<br />
 🧱 Developer Leader em Medieval RPG;<br />
 🧱 Retired Developer em Rolly Network, Rede Heroic, Rede Celest, Rede Haunted (+6);</p>
-<br />
 
 ### 💻 &nbsp;Linguagens de programação:
 
