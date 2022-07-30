@@ -14,6 +14,7 @@
 
 <hr />
 ### 📈 Estatísticas
+
 <br/>
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=hobbie-dev&count_private=true&theme=dark&show_icons=true" alt="hobbie-dev" />
@@ -22,6 +23,7 @@
 
 <hr />
 ### 📕 Repositórios
+
 <p align="center">
 	<a href="https://github.com/hobbie-dev/hobbie-dev/">
 		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hobbie-dev&repo=hobbie-dev&hide_border=true&theme=dark&show_icons=true" />
