@@ -1,6 +1,5 @@
 # <p align="center"> &nbsp;Perfil de hobbie<br /><img src="https://komarev.com/ghpvc/?username=hobbie-dev1619&color=blueviolet&style=flat-square&label=Profile+Views" /></p>
 
-<hr />
 ### 🧑 Sobre mim:
 <p>🎓 Desenvolvedor profissional em plataformas Java e Pawn;<br />
 🌙 Aprendiz em Lua;<br />
