@@ -1,18 +1,14 @@
 <p align="center">
-	<img src="pics/header.png">
-</p>
-
-<p align="center">
 	<img src="https://komarev.com/ghpvc/?username=amankr1619&color=blueviolet&style=flat-square&label=Profile+Views" />
 </p>
 
 ## &nbsp;Sobre mim:
 
-<p>🎓 &nbsp;Desenvolvedor profissional em plataformas Java e Pawn;</p>
-<p>🌙 &nbsp;Aprendiz em Lua;</p>
-<p>🧩 &nbsp;Possível futuro programador HTML;</p>
-<p>🧱 &nbsp;Developer Leader em Medieval RPG;</p>
-<p>🧱 &nbsp;Retired Developer em Rolly Network, Rede Heroic, Rede Celest, Rede Haunted (+6);</p>
+<p>🎓 Desenvolvedor profissional em plataformas Java e Pawn;</p>
+<p>🌙 Aprendiz em Lua;</p>
+<p>🧩 Possível futuro programador HTML;</p>
+<p>🧱 Developer Leader em Medieval RPG;</p>
+<p>🧱 Retired Developer em Rolly Network, Rede Heroic, Rede Celest, Rede Haunted (+6);</p>
 <br />
 
 ### 💻 &nbsp;Linguagens de programação:
