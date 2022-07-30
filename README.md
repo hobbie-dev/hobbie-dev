@@ -17,33 +17,20 @@
 
 ### 💻 &nbsp;Linguagens de programação:
 
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Java](https://img)&nbsp;
+![Pawn](https://img)&nbsp;
+![Lua](https://img)&nbsp;
 
-### 🚀 &nbsp;Technologies:
-
-![NextJS](https://img.shields.io/badge/-NextJS-05122A?style=flat&logo=next.js)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![ExpressJS](https://img.shields.io/badge/-ExpressJS-05122A?style=flat&logo=express)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
-
-<hr />
-
-## 📈 Statistics
+## 📈 Estatísticas
 
 <br/>
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=amankrx&count_private=true&theme=dark&show_icons=true" alt="amankrx" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=amankrx&hide_border=true&theme=dark&show_icons=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=hobbie-dev&count_private=true&theme=dark&show_icons=true" alt="hobbie-dev" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=hobbie-dev&hide_border=true&theme=dark&show_icons=true" />
 </p>
 
 <p align="center">
-	<img width="60%" src="https://github-readme-stats.vercel.app/api/wakatime?username=amankr1619&theme=dark&show_icons=true" alt="amankr1619" />
+	<img width="60%" src="https://github-readme-stats.vercel.app/api/wakatime?username=hobbie-dev1619&theme=dark&show_icons=true" alt="amankr1619" />
 </p>
 
 <hr />
