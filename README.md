@@ -1,5 +1,6 @@
 # <p align="center"> &nbsp;Perfil de hobbie<br /><img src="https://komarev.com/ghpvc/?username=hobbie-dev1619&color=blueviolet&style=flat-square&label=Profile+Views" /></p>
 
+<hr />
 ### 🧑 Sobre mim:
 <p>🎓 Desenvolvedor profissional em plataformas Java e Pawn;<br />
 🌙 Aprendiz em Lua;<br />
@@ -12,6 +13,7 @@
 ![Pawn](https://img.shields.io/badge/-Pawn-05122A?style=flat&logo=pawn)&nbsp;
 ![Lua](https://img.shields.io/badge/-Lua-05122A?style=flat&logo=lua)&nbsp;
 
+<hr />
 ### 📈 Estatísticas
 <br/>
 <p align="center">
@@ -20,7 +22,6 @@
 </p>
 
 <hr />
-
 ### 📕 Repositórios
 <p align="center">
 	<a href="https://github.com/hobbie-dev/hobbie-dev/">
