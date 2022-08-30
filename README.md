@@ -12,6 +12,7 @@
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
 ![Pawn](https://img.shields.io/badge/-Pawn-05122A?style=flat&logo=pawn)&nbsp;
 ![Lua](https://img.shields.io/badge/-Lua-05122A?style=flat&logo=lua)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 
 ## 📈 Estatísticas
 
