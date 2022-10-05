@@ -9,10 +9,10 @@
 🧱 Retired Developer em Rolly Network, Rede Smash, Rede Heroic, Rede Haunted, CosmoMC (+4)</p>
 
 ### 💻 &nbsp;Linguagens de programação:
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
-![Pawn](https://img.shields.io/badge/-Pawn-05122A?style=flat&logo=pawn)&nbsp;
-![Lua](https://img.shields.io/badge/-Lua-05122A?style=flat&logo=lua)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Java](https://img.shields.io/badge/Java-purple?logo=java&logoColor=purple)&nbsp;
+![Pawn](https://img.shields.io/badge/Pawn-purple?logo=pawn-script&logoColor=purple)&nbsp;
+![Lua](https://img.shields.io/badge/-Lua-purple?logo=lua)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-purple?logo=javascript)&nbsp;
 
 ## 📈 Estatísticas
 
