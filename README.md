@@ -5,7 +5,7 @@
 <p>🎓 Desenvolvedor profissional em plataformas Java e Pawn;<br />
 🌙 Aprendiz em JavaScript && Lua;<br />
 🧩 Possível futuro programador HTML;<br />
-🧱 Developer Leader em Medieval RPG;<br />
+🧱 Manager em Medieval Roleplay;<br />
 🧱 Retired Developer em Rolly Network, Rede Smash, Rede Heroic, Rede Haunted, CosmoMC (+4)</p>
 
 ### 💻 &nbsp;Linguagens de programação:
