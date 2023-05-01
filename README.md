@@ -25,8 +25,8 @@
 ## 📕 Repositórios
 
 <p align="center">
-	<a href="https://github.com/hobbie-dev/hobbie-dev/">
-		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hobbie-dev&repo=hobbie-dev&hide_border=true&theme=dark&show_icons=true" />
+	<a href="https://github.com/hobbie-dev/minecraft-bot-javascript/">
+		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hobbie-dev&repo=minecraft-bot-javascript&hide_border=true&theme=dark&show_icons=true" />
 	</a>
 	<a href="https://github.com/hobbie-dev/ban-js">
 		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hobbie-dev&repo=ban-js&hide_border=true&theme=dark&show_icons=true" />
